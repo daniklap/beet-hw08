@@ -1,0 +1,36 @@
+Beetroot Academy
+QA Manual Course 
+Jan 2024 - March 2024
+Daniel Clapa
+Homework 08 for 05 Feb 2024, Lesson: Bug Reporting
+
+Beet Seed  — get the basic skills down.
+In the bug tracking system (Jira), describe 3 bugs that you find on the site https://www.headhunterhairstyling.com/
+Changes to the specs from the LMS: describe 2 bugs for each website or app
+Describe 2 bugs for Headhunter Hairstyle website:
+[SCRUM-23] [HW] [Website] Yelp link at the bottom of the ‘contact’ page goes to a blank page in Firefox - Jira (atlassian.net) 
+[SCRUM-26] [HW] [Website] Yelp link at the bottom of the ‘contact’ page goes with an “access denied” message in Chrome - Jira (atlassian.net)
+Describe 2 bugs for the Parking Lot Calculator web application:
+[SCRUM-21] [HW] [Parking Calculator] Parking Lot type changes after Calculating cost - Jira (atlassian.net) 
+[SCRUM-22] [HW] [Parking Calculator] Time type of PM changes to AM and increases the time by 12 - Jira (atlassian.net) 
+Beet Sprout — dive deeper into practice.
+Complete the task of the previous level.
+Give your own examples of bugs that may have such combinations:
+Severity - Critical / Priority - Low
+Severity - Minor / Priority - Highest 
+(specify 2 bugs for each option)
+Answer: 
+Severity is Critical, but Priority is Low:
+When a link on a web site that we know is not often used by users but which is currently broken.
+When Load testing shows site crashing but we currently have only a small number of users.
+Severity is Minor,, but Priority is Highest: 
+When the text on a web page is in a different language than what it should be, than what the users know and expect.
+When text is not aligned properly on a web page in a particular browser, and it even overlaps with other text or links or buttons.
+
+About the divisions of the sections in the Test Suites (for the Monday homework), I'm not fully clear about it. So I created 2 more Test Suites and I wanted to get your feedback on which is correct, if any. In TestRails they are named as below.
+[Practice 1] Parking Lot Calculator:
+[Practice 2] Parking Lot Calculator:
+https://beetrootqa2024.testrail.io/index.php?/suites/view/55&group_by=cases:section_id&group_order=asc&display_deleted_cases=0 
+
+[Practice 1] Parking Lot Calculator:
+https://beetrootqa2024.testrail.io/index.php?/suites/view/54&group_by=cases:section_id&group_order=asc&display_deleted_cases=0 
